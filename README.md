@@ -82,12 +82,9 @@
 
 ## GitHub Activity
 
-<p align="center">
-  <img src="## GitHub Activity
 
 <p align="center">
-  <img src="https://github.com/hemantsinha01/hemantsinha01/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" width="80%"/>
-</p>" alt="snake" width="80%"/>
+  <img src="https://github.com/hemantsinha01/hemantsinha01/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" width="80%" alt="snake" width="80%"/>
 </p>
 
 ---

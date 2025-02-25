@@ -1,4 +1,4 @@
-nt<div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hemant%20Kumar&fontSize=40&fontColor=FFFFFF&animation=fadeIn&gradientColors=FF8B3D,00C4CC" alt="header"/>
 
   <h1 style="color: #FF8B3D; font-family: 'JetBrains Mono', monospace;">
@@ -83,7 +83,11 @@ nt<div align="center">
 ## GitHub Activity
 
 <p align="center">
+  <img src="## GitHub Activity
+
+<p align="center">
   <img src="https://github.com/hemantsinha01/hemantsinha01/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" width="80%"/>
+</p>" alt="snake" width="80%"/>
 </p>
 
 ---

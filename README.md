@@ -6,10 +6,10 @@
   </h1>
 
   <div style="margin: 20px 0;">
-    <a href="(https://x.com/HemantK66009549)" target="_blank">
+    <a href="https://x.com/HemantK66009549" target="_blank">
       <img src="https://img.shields.io/badge/X-FF8B3D?style=for-the-badge&logo=x&logoColor=white&labelColor=00C4CC" alt="X" />
     </a>
-    <a href="(https://hemantsinha01.github.io/Hemant-kumar-portfolio/)" target="_blank">
+    <a href="https://hemantsinha01.github.io/Hemant-kumar-portfolio/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-FF8B3D?style=for-the-badge&logo=vercel&logoColor=white&labelColor=00C4CC" alt="portfolio" />
     </a>
     <a href="mailto:hemantkrsinha01@gmail.com">

@@ -51,7 +51,7 @@
       <th style="color: #FF8B3D; padding: 10px;">MERN Stack</th>
     </tr>
     <tr>
-      <td><img src="https://skillicons.dev/icons?i=js,c++,html,css&theme=dark" alt="langs"/></td>
+      <td><img src="https://skillicons.dev/icons?i=js,cpp,html,css&theme=dark" alt="langs"/></td>
       <td><img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark" alt="mern"/></td>
     </tr>
     <tr>
@@ -80,14 +80,6 @@
 
 ---
 
-## GitHub Activity
-
-
-<p align="center">
-  <img src="https://github.com/hemantsinha01/hemantsinha01/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" width="80%" alt="snake" width="80%"/>
-</p>
-
----
 
 ## Trophies
 

@@ -51,7 +51,7 @@
       <th style="color: #FF8B3D; padding: 10px;">MERN Stack</th>
     </tr>
     <tr>
-      <td><img src="https://skillicons.dev/icons?i=js,ts,html,css&theme=dark" alt="langs"/></td>
+      <td><img src="https://skillicons.dev/icons?i=js,c++,html,css&theme=dark" alt="langs"/></td>
       <td><img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark" alt="mern"/></td>
     </tr>
     <tr>
@@ -59,7 +59,7 @@
       <th style="color: #FF8B3D; padding: 10px;">Extras</th>
     </tr>
     <tr>
-      <td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman,docker&theme=dark" alt="tools"/></td>
+      <td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="tools"/></td>
       <td><img src="https://skillicons.dev/icons?i=tailwind,redux,firebase&theme=dark" alt="extras"/></td>
     </tr>
   </table>

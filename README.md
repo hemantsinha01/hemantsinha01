@@ -1,4 +1,4 @@
-<div align="center">
+nt<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hemant%20Kumar&fontSize=40&fontColor=FFFFFF&animation=fadeIn&gradientColors=FF8B3D,00C4CC" alt="header"/>
 
   <h1 style="color: #FF8B3D; font-family: 'JetBrains Mono', monospace;">
@@ -83,7 +83,7 @@
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github.com/yourgithubusername/yourgithubusername/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" width="80%"/>
+  <img src="https://github.com/hemantsinha01/hemantsinha01/blob/output/github-contribution-grid-snake-dark.svg" alt="snake" width="80%"/>
 </p>
 
 ---
@@ -91,7 +91,7 @@
 ## Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourgithubusername&theme=onedark&no-frame=true&margin-w=15&row=1&column=6&title_color=FF8B3D&label_color=00C4CC" alt="trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=hemantsinha01&theme=onedark&no-frame=true&margin-w=15&row=1&column=6&title_color=FF8B3D&label_color=00C4CC" alt="trophies"/>
 </p>
 
 ---

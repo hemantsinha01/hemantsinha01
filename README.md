@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hemant%20Kumar&fontSize=40&fontColor=FFFFFF&animation=fadeIn&gradientColors=FF8B3D,00C4CC" alt="header"/>
 
   <h1 style="color: #FF8B3D; font-family: 'JetBrains Mono', monospace;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&color=FF8B3D&center=true&vCenter=true&width=600&lines=Hey%2C+I’m+Hemant!+👋;MERN+Stack+Maestro+✨;Crafting+Web+Magic+💻;Let’s+Build+Something+Great!+🤝" alt="typing"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&color=FF8B3D&center=true&vCenter=true&width=600&lines=Hey%2C+I’m+Hemant!+👋;Gen+AI+Engineer+%7C+MERN+Developer+✨;Building+Smart+AI+Systems+🤖;Let’s+Innovate+Together+🚀" alt="typing"/>
   </h1>
 
   <div style="margin: 20px 0;">
@@ -23,20 +23,20 @@
 ## Who Am I?
 
 <div align="left" style="max-width: 800px; margin: 0 auto;">
-  <h2 style="color: #FF8B3D;">👨‍💻 Full Stack Developer | India 🇮🇳</h2>
+  <h2 style="color: #FF8B3D;">👨‍💻 GenAI Engineer | Full-Stack Developer | India 🇮🇳</h2>
   <p style="font-size: 16px; line-height: 1.6;">
-    I’m Hemant Kumar, a MERN stack enthusiast from India, passionate about building full-fledged web applications that solve real-world problems. From front-end finesse to back-end brilliance, I love creating seamless digital experiences.
+    I'm Hemant Kumar — a Generative AI engineer and full-stack MERN developer passionate about building intelligent systems that solve real-world problems. I specialize in crafting multi-agent workflows, building RAG pipelines, and automating tasks using LLMs, Python, and modern AI tooling.
   </p>
-  
+
   <ul style="list-style: none; padding: 0;">
-    <li>🚀 <strong>Currently:</strong> Working on a Starbucks-inspired web app for Boba Cheers</li>
-    <li>🏆 <strong>Achievement:</strong> Built a fully functional food delivery app from scratch</li>
-    <li>🌟 <strong>Learning:</strong> Scaling MERN apps and optimizing performance</li>
-    <li>⚡ <strong>Fun Fact:</strong> I debug code faster than I can finish my chai ☕</li>
+    <li>🚀 <strong>Currently:</strong> Exploring NLP, neural networks, and machine learning to build real-world AI systems</li>
+    <li>🤖 <strong>AI Projects:</strong> Built agent systems that scrape coding platforms, generate & test solutions, and provide iterative feedback</li>
+    <li>📄 <strong>PDF to Excel:</strong> Created rule-based tools that extract tables from scanned and native PDFs into structured Excel sheets</li>
+    <li>🧠 <strong>Tooling:</strong> Working with LangChain, AutoGen, OpenAI APIs, Tabula, FAISS, Tesseract, and more</li>
   </ul>
-  
+
   <blockquote style="border-left: 4px solid #00C4CC; padding-left: 15px; color: #FF8B3D; font-style: italic;">
-    "Great apps start with great code—and a little bit of obsession."
+    "Curious by nature — fascinated by AI 🤖, space and astronomy 🌌, psychology 🧠, problem-solving 🧩, automation 🔁, human–machine collaboration ⚙️, geopolitics 🪖, economics 🪙, fintech 💸, and sustainable farming 🌴."
   </blockquote>
 </div>
 
@@ -51,21 +51,19 @@
       <th style="color: #FF8B3D; padding: 10px;">MERN Stack</th>
     </tr>
     <tr>
-      <td><img src="https://skillicons.dev/icons?i=js,cpp,html,css&theme=dark" alt="langs"/></td>
+      <td><img src="https://skillicons.dev/icons?i=python,js,cpp,html,css&theme=dark" alt="langs"/></td>
       <td><img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark" alt="mern"/></td>
     </tr>
     <tr>
-      <th style="color: #FF8B3D; padding: 10px;">Tools & Platforms</th>
+      <th style="color: #FF8B3D; padding: 10px;">AI & Tools</th>
       <th style="color: #FF8B3D; padding: 10px;">Extras</th>
     </tr>
     <tr>
-      <td><img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="tools"/></td>
-      <td><img src="https://skillicons.dev/icons?i=tailwind,redux,firebase&theme=dark" alt="extras"/></td>
+      <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,openai,vscode,postman&theme=dark" alt="tools"/></td>
+      <td><img src="https://skillicons.dev/icons?i=git,github,tailwind,redux,firebase&theme=dark" alt="extras"/></td>
     </tr>
   </table>
 </div>
-
-
 
 ## Stats That Define Me
 
@@ -77,8 +75,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hemantsinha01&theme=radical&layout=compact&hide_border=true&bg_color=1A1B27&title_color=FF8B3D&text_color=FFFFFF" alt="top-langs"/>
 </div>
-
-
 
 ## Trophies
 

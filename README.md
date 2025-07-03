@@ -60,7 +60,7 @@
     </tr>
     <tr>
       <td>
-        <img src="https://skillicons.dev/icons?i=openai,LangChain, LangGraph, AutoGen, Pinecone,vscode&theme=dark" alt="ai-tools"/>
+        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,openai,vscode,Langchain&theme=dark" alt="ai-tools"/>
         <br />
       </td>
       <td>

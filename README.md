@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Hemant%20Kumar&fontSize=40&fontColor=FFFFFF&animation=fadeIn&gradientColors=FF8B3D,00C4CC" alt="header"/>
 
   <h1 style="color: #FF8B3D; font-family: 'JetBrains Mono', monospace;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=2500&color=FF8B3D&center=true&vCenter=true&width=600&lines=Hey%2C+I’m+Hemant!+👋;Gen+AI+Engineer+%7C+MERN+Developer+✨;Building+Smart+AI+Systems+🤖;Let’s+Innovate+Together+🚀" alt="typing"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=35&duration=2500&color=FF8B3D&center=true&vCenter=true&width=600&lines=Hey%2C+I’m+Hemant!+👋;Gen+AI+Engineer+%7C+MERN+Developer+✨;Building+Smart+AI+Systems+🤖;Let’s+Innovate+Together+🚀" alt="typing"/>
   </h1>
 
   <div style="margin: 20px 0;">

@@ -32,7 +32,7 @@
     <li>🚀 <strong>Currently:</strong> Exploring NLP, neural networks, and machine learning to build real-world AI systems</li>
     <li>🤖 <strong>AI Projects:</strong> Built agent systems that scrape coding platforms, generate & test solutions, and provide iterative feedback</li>
     <li>📄 <strong>PDF to Excel:</strong> Created rule-based tools that extract tables from scanned and native PDFs into structured Excel sheets</li>
-    <li>🧠 <strong>Tooling:</strong> Working with LangChain, AutoGen, OpenAI APIs, Tabula, FAISS, Tesseract, and more</li>
+    <li>🧠 <strong>Tooling:</strong> Working with LangChain, LangGraph, AutoGen, ChromaDB, Pinecone, FAISS, OpenAI APIs, Tabula, and Tesseract</li>
   </ul>
 
   <blockquote style="border-left: 4px solid #00C4CC; padding-left: 15px; color: #FF8B3D; font-style: italic;">
@@ -45,7 +45,7 @@
 ## My Tech Toolkit
 
 <div align="center" style="margin: 30px 0;">
-  <table style="border-collapse: collapse; width: 80%;">
+  <table style="border-collapse: collapse; width: 90%;">
     <tr>
       <th style="color: #FF8B3D; padding: 10px;">Core Languages</th>
       <th style="color: #FF8B3D; padding: 10px;">MERN Stack</th>
@@ -55,12 +55,17 @@
       <td><img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark" alt="mern"/></td>
     </tr>
     <tr>
-      <th style="color: #FF8B3D; padding: 10px;">AI & Tools</th>
-      <th style="color: #FF8B3D; padding: 10px;">Extras</th>
+      <th style="color: #FF8B3D; padding: 10px;">AI & Frameworks</th>
+      <th style="color: #FF8B3D; padding: 10px;">Dev Tools & Extras</th>
     </tr>
     <tr>
-      <td><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,openai,vscode,postman&theme=dark" alt="tools"/></td>
-      <td><img src="https://skillicons.dev/icons?i=git,github,tailwind,redux,firebase&theme=dark" alt="extras"/></td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,openai,vscode&theme=dark" alt="ai-tools"/>
+        <br />LangChain, LangGraph, AutoGen, ChromaDB, Pinecone, FAISS
+      </td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=git,github,postman,tailwind,redux,firebase&theme=dark" alt="extras"/>
+      </td>
     </tr>
   </table>
 </div>

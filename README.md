@@ -60,8 +60,8 @@
     </tr>
     <tr>
       <td>
-        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,openai,vscode&theme=dark" alt="ai-tools"/>
-        <br />LangChain, LangGraph, AutoGen, ChromaDB, Pinecone, FAISS
+        <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,openai,LangChain, LangGraph, AutoGen, ChromaDB, Pinecone, FAISSvscode&theme=dark" alt="ai-tools"/>
+        <br />
       </td>
       <td>
         <img src="https://skillicons.dev/icons?i=git,github,postman,tailwind,redux,firebase&theme=dark" alt="extras"/>
